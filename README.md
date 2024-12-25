@@ -39,4 +39,4 @@ Before you begin, ensure you have the following installed on your machine:
    cd client-record
 2. Create `.env` file and copy in it the contents of `.env.example`
 3. Run `docker-compose up -d`
-4. At the moment we have to run the app service manually. So please go to [app README](https://github.com/gena-tokarev/client-record-app/README.md) and follow the instructions of how to run it (the frontend and api services).
+4. At the moment we have to run the app service manually. So please go to [app repository](https://github.com/gena-tokarev/client-record-app) and follow the instructions of how to run it (the frontend and api service).
