@@ -1,6 +1,6 @@
 # Client Record Project Infrastructure
 
-This repository serves as the central point for managing and running the project, which consists of three services:
+This repository serves as the central point for managing and running the project, which consists of the following services:
 
 - **`app`**: [Frontend and API service](https://github.com/gena-tokarev/client-record-app).
 - **`db`**: [Database service (PostgreSQL)](https://github.com/gena-tokarev/client-record-db).
