@@ -1,0 +1,12 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/gena-tokarev/client-record-app
+[submodule "db2search"]
+	path = db2search
+	url = https://github.com/gena-tokarev/client-record-db2search
+[submodule "db"]
+	path = db
+	url = https://github.com/gena-tokarev/client-record-db
+[submodule "devops"]
+	path = devops
+	url = https://github.com/gena-tokarev/client-record-devops
