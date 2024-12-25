@@ -16,7 +16,7 @@ The project uses `docker-compose` to manage and run all services together.
 - **`app`**: Contains the frontend and backend logic.
 - **`db`**: Provides PostgreSQL configuration and necessary database initialization scripts.
 - **`db2search`**: Synchronizes the database with Elasticsearch for search functionality.
-- **`devops`**: Contains devops infrastructure stuff
+- **`devops`**: Contains devops infrastructure stuff.
 - **`docker-compose`**: Easily run all services with one command.
 
 ---
